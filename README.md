@@ -31,7 +31,7 @@
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=techoc&show_icons=true&bg_color=DEG,9890e3,b1f4cf">](https://metrics.lecoq.io/techoc?template=classic)
 
 - 💻 Leaning PyData / Golang /Spring Cloud
-- 🤔 I’m looking for help with advanced mathematics and 
+- 🤔 I’m looking for help with advanced mathematics
 - 📫 How to reach me: <a href="mailto:techoc@foxmail.com">techoc@foxmail.com</a>
 - 🌱 Preparing for [Postgraduate Admission Test](https://en.wikipedia.org/wiki/Postgraduate_Admission_Test)
 - 😄 Pronouns: he/him
