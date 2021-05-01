@@ -6,7 +6,7 @@
 𝑴𝒚 𝒎𝒂𝒋𝒐𝒓 𝒊𝒔 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒔𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚
 
 ## 𝑴𝒚 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
-![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=spring&logoColor=ffffff)
 
@@ -25,7 +25,8 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
-
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)
+![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=ffffff)
 
 ## 𝑺𝒕𝒂𝒕𝒔
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=techoc&show_icons=true&bg_color=DEG,9890e3,b1f4cf">](https://metrics.lecoq.io/techoc?template=classic)
