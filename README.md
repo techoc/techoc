@@ -1,6 +1,7 @@
-# Hi there 👋
+# 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋
+I am a junior.I am studying at Hubei University of Technology
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 𝑴𝒚 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 ![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-6db33f?style=flat-square&logo=spring&logoColor=ffffff)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-6db33f?style=flat-square&logo=spring&logoColor=ffffff)
@@ -22,7 +23,7 @@
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 𝑺𝒕𝒂𝒕𝒔
 ![𝗦𝘁𝗮𝘁𝘀](https://github-readme-stats.vercel.app/api?username=techoc&show_icons=true&bg_color=DEG,9890e3,b1f4cf)
 
 - 🔭 I’m currently working on ...
