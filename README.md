@@ -1,5 +1,9 @@
 # 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋
-I am a junior.I am studying at Hubei University of Technology
+𝑰 𝒂𝒎 𝒂 𝒋𝒖𝒏𝒊𝒐𝒓. 
+
+𝑵𝒐𝒘 𝒔𝒕𝒖𝒅𝒚𝒊𝒏𝒈 𝒂𝒕 [𝑯𝒖𝒃𝒆𝒊 𝑼𝒏𝒊𝒗𝒆𝒓𝒔𝒊𝒕𝒚 𝒐𝒇 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓𝒊𝒏𝒈 𝒂𝒏𝒅 𝑻𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚 𝑪𝒐𝒍𝒍𝒆𝒈𝒆](https://gcxy.hbut.edu.cn/).
+
+𝑴𝒚 𝒎𝒂𝒋𝒐𝒓 𝒊𝒔 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝒔𝒄𝒊𝒆𝒏𝒄𝒆 𝒂𝒏𝒅 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒚
 
 ## 𝑴𝒚 𝑻𝒆𝒄𝒉 𝑺𝒕𝒂𝒄𝒌
 ![Java](https://img.shields.io/badge/-Java-%23E44D27?style=flat-square&logo=java&logoColor=ffffff)
@@ -24,14 +28,11 @@ I am a junior.I am studying at Hubei University of Technology
 
 
 ## 𝑺𝒕𝒂𝒕𝒔
-![𝗦𝘁𝗮𝘁𝘀](https://github-readme-stats.vercel.app/api?username=techoc&show_icons=true&bg_color=DEG,9890e3,b1f4cf)
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=techoc&show_icons=true&bg_color=DEG,9890e3,b1f4cf">](https://metrics.lecoq.io/techoc?template=classic)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💻 Leaning PyData / Golang /Spring Cloud
+- 🤔 I’m looking for help with advanced mathematics and 
+- 📫 How to reach me: <a href="mailto:techoc@foxmail.com">techoc@foxmail.com</a>
+- 🌱 Preparing for [Postgraduate Admission Test](https://en.wikipedia.org/wiki/Postgraduate_Admission_Test)
+- 😄 Pronouns: he/him
 
