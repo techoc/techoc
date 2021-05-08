@@ -30,6 +30,7 @@
 ![Github Actions](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=Github-Actions&logoColor=ffffff)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=ffffff)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=ffffff)
+![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=flat-square&logo=WebStorm&logoColor=ffffff)
 
 ## 𝑺𝒕𝒂𝒕𝒔
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=techoc&show_icons=true&bg_color=DEG,9890e3,b1f4cf">](https://metrics.lecoq.io/techoc?template=classic)
