@@ -1,7 +1,11 @@
 # 𝑯𝒊 𝒕𝒉𝒆𝒓𝒆 👋
 
 ![octocat](dist/github-header-image.png)
-![snake](github-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 𝑪𝒐𝒏𝒈𝒓𝒂𝒕𝒖𝒍𝒂𝒕𝒊𝒐𝒏𝒔!🎉 𝑰 𝒈𝒓𝒂𝒅𝒖𝒂𝒕𝒆𝒅!
 
