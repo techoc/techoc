@@ -35,6 +35,6 @@
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=techoc&show_icons=true&bg_color=DEG,9890e3,b1f4cf">
 
 - 💻 Leaning Golang / Spring Cloud Alibaba / Rust
-- 📫 How to reach me: <a href="mailto:techoc@foxmail.com">techoc@foxmail.com</a>
+- 📫 How to reach me: <a href="mailto:hi@techoc.cn">hi@techoc.cn</a>
 - 😄 Pronouns: he/him
 - 🏡 Base: Beijing,China
